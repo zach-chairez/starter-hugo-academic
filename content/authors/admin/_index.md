@@ -1,5 +1,5 @@
 ---
-title: Zachary Chairez
+title: Zachary (Zach) Chairez
 role: Mathematics Ph.D. Student
 avatar_filename: avatar.jpg
 bio: ""
