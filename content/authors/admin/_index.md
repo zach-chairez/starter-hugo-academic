@@ -16,7 +16,7 @@ social:
     link: https://github.com/zach-chairez
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/zachchairez
+    link: https://www.linkedin.com/in/zachchairez
 organizations:
   - name: The University of Texas at Arlington
     url: https://www.uta.edu
