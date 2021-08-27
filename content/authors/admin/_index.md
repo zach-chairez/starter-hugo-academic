@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: The University of Texas at Arlington
-    url: uta.edu
+    url: https://www.uta.edu
 education:
   courses:
     - course: B.S. Mathematics
