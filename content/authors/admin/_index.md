@@ -26,15 +26,12 @@ organizations:
     url: uta.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S. in Mathematics
+      institution: Texas A&M University - Corpus Christi
+      year: 2018
+    - course: M.S. Applied Mathematics
+      institution: Texas A&M University - Corpus Christi
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
