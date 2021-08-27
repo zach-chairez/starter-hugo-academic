@@ -4,9 +4,9 @@ role: Mathematics Ph.D. Student
 avatar_filename: image0.jpeg
 bio: ""
 interests:
-  - SupervisedLearning
-  - Multi-viewLearning
-  - OptimizationonSmoothManifolds
+  - Supervised Learning
+  - Multi-view Learning
+  - Optimization on Smooth Manifolds
 social:
   - icon: envelope
     icon_pack: fas
