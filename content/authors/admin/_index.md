@@ -1,7 +1,7 @@
 ---
 title: Zachary Chairez
 role: Mathematics Ph.D. Student
-avatar_filename: image0.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Supervised Learning
