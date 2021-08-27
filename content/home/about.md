@@ -6,4 +6,6 @@ weight: 20
 title: Bio
 active: true
 author: admin
+design:
+  columns: "2"
 ---
