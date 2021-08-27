@@ -3,7 +3,7 @@ widget: about
 widget_id: about me
 headless: true
 weight: 20
-title: Bio
+title: Bio-poop
 active: true
 author: admin
 ---
