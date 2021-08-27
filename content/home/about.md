@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Not Sure
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: Bio
+active: true
 author: admin
 ---
+Zachary Chairez is currently a Ph.D. student in the department of Mathematics at the University of Texas at Arlington.  He's currently working under Dr. Ren-Cang Li and Dr. Li Wang in Machine Learning with a focus in Multi-view Learning.  Zach received his B.S. and M.S. in Applied Mathematics from Texas A&M University - Corpus Christi.  Zach has been teaching mathematics and mathematics related topics periodically with students ranging from K-12 and college.  When Zach is not working, he likes to run, play soccer, spend time with his girlfriend, and take a copious amount of naps.
