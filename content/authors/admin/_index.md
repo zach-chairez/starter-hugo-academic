@@ -26,7 +26,7 @@ organizations:
     url: uta.edu
 education:
   courses:
-    - course: B.S. in Mathematics
+    - course: B.S. Mathematics
       institution: Texas A&M University - Corpus Christi
       year: 2018
     - course: M.S. Applied Mathematics
