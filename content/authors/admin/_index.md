@@ -4,9 +4,7 @@ role: Mathematics Ph.D. Student
 avatar_filename: image0.jpeg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Supervised
 social:
   - icon: envelope
     icon_pack: fas
