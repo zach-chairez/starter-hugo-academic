@@ -3,7 +3,7 @@ widget: about
 widget_id: Not Sure
 headless: true
 weight: 20
-title: Bio
+title: Biography
 active: true
 author: admin
 ---
