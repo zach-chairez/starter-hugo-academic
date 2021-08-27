@@ -3,7 +3,10 @@ title: Zachary Chairez
 role: Mathematics Ph.D. Student
 avatar_filename: image0.jpeg
 bio: ""
-interests: []
+interests:
+  - SupervisedLearning
+  - Multi-viewLearning
+  - OptimizationonSmoothManifolds
 social:
   - icon: envelope
     icon_pack: fas
