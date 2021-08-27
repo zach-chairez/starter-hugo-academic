@@ -41,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zachary Chairez is currently a Ph.D. student in the department of Mathematics at the University of Texas at Arlington.  He's currently working under Dr. Ren-Cang Li and Dr. Li Wang in Machine Learning with a focus in Multi-view Learning.  Zach received his B.S. and M.S. in Applied Mathematics from Texas A&M University - Corpus Christi.  Zach has been teaching mathematics and mathematics related topics periodically with students ranging from K-12 and college.  When Zach is not working, he likes to run, play soccer, spend time with his girlfriend, and take a copious amount of naps.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
