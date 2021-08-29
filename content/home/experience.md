@@ -43,7 +43,7 @@ experience:
     date_start: 2019-06-01
     date_end: 2019-07-01
     description: Taught and mentored the 2nd and 3rd year TEXPrep students in their respective subjects such as physics, basic group theory, scientific research, statistics, logic, modular arithmetic, and professional writing.   
-widget_id: "experience"
+widget_id: "Experience"
 headless: true
 weight: 40
 title: Experience
