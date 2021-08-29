@@ -22,12 +22,12 @@ organizations:
     url: https://www.uta.edu
 education:
   courses:
-    - course: B.S. Mathematics
-      institution: Texas A&M University - Corpus Christi
-      year: 2018
     - course: M.S. Applied Mathematics
       institution: Texas A&M University - Corpus Christi
       year: 2020
+    - course: B.S. Mathematics
+      institution: Texas A&M University - Corpus Christi
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
