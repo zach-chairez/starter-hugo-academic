@@ -1,6 +1,6 @@
 ---
 widget: experience
-active: false
+active: true
 date_format: Jan 2006
 experience:
   - title: CEO
@@ -11,8 +11,7 @@ experience:
     date_start: 2021-01-01
     date_end: ""
     description: |-2
-        Responsibilities include:
-        
+        Responsibilities include: 
         * Analysing
         * Modelling
         * Deploying
