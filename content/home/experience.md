@@ -10,7 +10,7 @@ experience:
     location: Arlington,TX
     date_start: 2020-09-01
     date_end: ""
-    description: During the fall semesters, I work as a Teaching Assistant for the calculus instructors where I guide the students in the lab portion of their class with lab           assignments.  During the spring semesters, I work directly with my advisors Dr. Li Wang and Dr. Ren-Cang Li on my current research pertaining to my dissertation.  
+    description: During the fall semesters, I work as a Teaching Assistant for the calculus instructors where I guide the students in the lab portion of their class with lab assignments.  During the spring semesters, I work directly with my advisors Dr. Li Wang and Dr. Ren-Cang Li on my current research pertaining to my dissertation.  
     - title: Professional Tutor
     company: Del Mar College
     company_url: "delmar.edu"
@@ -42,7 +42,7 @@ experience:
     location: Corpus Christi, TX
     date_start: 2019-06-01
     date_end: 2019-07-01
-    description: Taught and mentored the 2nd and 3rd year TEXPrep students in their respective subjects such as physics, basic group theory, scientific research, statistics,           logic, modular arithmetic, and professional writing.   
+    description: Taught and mentored the 2nd and 3rd year TEXPrep students in their respective subjects such as physics, basic group theory, scientific research, statistics, logic, modular arithmetic, and professional writing.   
 widget_id: "experience"
 headless: true
 weight: 40
