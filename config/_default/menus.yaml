@@ -20,7 +20,7 @@ main:
     #url: '#featured'
     #weight: 50
     
-    - name: Contact
+  - name: Contact
     url: '#contact'
     weight: 30
  
