@@ -13,10 +13,10 @@ experience:
     description: During the fall semesters, I work as a Teaching Assistant for the calculus instructors where I       guide the students in the lab portion of their class with lab assignments.  During the spring semesters, I       work directly with my advisors Dr. Li Wang and Dr. Ren-Cang Li on my current research pertaining to my           dissertation.  
        
   - title: Professional Tutor
-    company: University X
-    company_url: ""
+    company: Del Mar College
+    company_url: "delmar.edu"
     company_logo: org-x
-    location: California
+    location: Corpus Christi, TX
     date_start: 2018-09-01
     date_end: 2020-08-01
     description: Tutored students in classes such as Intermediate and College Algebra up to Calculus and               Differential Equations.  In addition, University Physics I & II.  
