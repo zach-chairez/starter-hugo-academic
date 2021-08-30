@@ -31,8 +31,10 @@ experience:
     date_end: ''
     description: |2-
     
-      * Pooped everywhere
-      * Super pooped everywhere
+       * Prepare, present and guide students through Calculus based assignments.
+       * Creatively instill mathematical foundations in students for future mathematics and science classes.
+       * Respond to students' emails quickly and respectfully with suggestions and actions necessary to complete.
+       * During the Spring semesters, actively research relevant information pertaining to dissertation topic.
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
