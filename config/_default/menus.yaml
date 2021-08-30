@@ -21,7 +21,7 @@ main:
     #weight: 50
     
   - name: Skills
-    url: '#featurette'
+    url: '#skills'
     weight: 30
     
   - name: CV
