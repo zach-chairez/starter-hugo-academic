@@ -32,9 +32,9 @@ experience:
     description: |2-
     
        * Prepare, present and guide students through Calculus based assignments.
-       * Creatively instill mathematical foundations in students for future mathematics and science classes.
-       * Respond to students' emails quickly and respectfully with suggestions and actions necessary to complete.
-       * During the Spring semesters, actively research relevant information pertaining to dissertation topic.
+       * Creatively instill mathematical foundations in students for future mathematics and science                classes.
+       * Respond to students' emails quickly and respectfully with suggestions and actions necessary to            complete.
+       * During the Spring semesters, actively research relevant information pertaining to dissertation            topic.
   - title: Professional Tutor
     company: Del Mar College
     company_url: ''
@@ -73,8 +73,7 @@ experience:
       * Project GRAD is a nonprofit summer bridge program assisting students in Mathematics and English.
         I worked side by side with another mathematics instructor implementing various styles of hands-on
         mathematical learning techniques to propel struggling students to new heights.
-      * I led the hands-on mathematics workshop following the lecture, engaging and challenging students to
-        think critically and effectively.
+      * I led the hands-on mathematics workshop following the lecture, engaging and challenging students           to think critically and effectively.
         
   - title: Math and Technology Mentor
     company: TEXPrep
@@ -85,7 +84,7 @@ experience:
     date_end: '2019-07'
     description: |2-
     
-      * Work closely with middle and high school students, covering topics in logic, physics, modular arithmetic, introductory group theory, statistics, engineering         and           design, as well as technical and professional writing.
+      * Work closely with middle and high school students, covering topics in logic, physics, modular             arithmetic, introductory group theory, statistics, engineering and design, as well as technical           and professional writing.
       * Monitor students throughout the day in and out of the classroom.
         
 active: true
