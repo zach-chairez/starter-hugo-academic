@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Arlington,TX
-    date_start: '2020-08'
+    date_start: '2020-08-01'
     date_end: ''
     description: |2-
     
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
-    date_start: '2018-09'
-    date_end: '2020-08'
+    date_start: '2018-09-01'
+    date_end: '2020-08-01'
     description: |2-
     
         * Listen, teach, and dynamically present concepts to students in Elementary Algebra to Differential Equations, as             well as freshman & sophomore level Engineering and Physics.
@@ -54,8 +54,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
-    date_start: '2018-09'
-    date_end: '2020-05'
+    date_start: '2018-09-01'
+    date_end: '2020-05-01'
     description: |2-
     
         * Prepare, present and guide students through MatLab-based calculus labs.
@@ -66,8 +66,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
-    date_start: '2019-07'
-    date_end: '2019-08'
+    date_start: '2019-07-01'
+    date_end: '2019-08-01'
     description: |2-
     
         * Project GRAD is a nonprofit summer bridge program assisting students in Mathematics and English. I worked side by           side with another mathematics instructor implementing various styles of hands-on mathematical learning techniques           to propel struggling students to new heights.
@@ -78,8 +78,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
-    date_start: '2019-06'
-    date_end: '2019-07'
+    date_start: '2019-06-01'
+    date_end: '2019-07-01'
     description: |2-
     
         * Work closely with middle and high school students, covering topics in logic, physics, modular arithmetic,                   introductory group theory, statistics, engineering and design, as well as technical and professional writing.
