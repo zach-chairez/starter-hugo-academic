@@ -41,7 +41,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
-    date_start: '2018-9'
+    date_start: '2018-09'
     date_end: '2020-08'
     description: |2-
     
@@ -54,7 +54,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
-    date_start: '2018-9'
+    date_start: '2018-09'
     date_end: '2020-05'
     description: |2-
     
@@ -66,7 +66,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
-    date_start: '2019-7'
+    date_start: '2019-07'
     date_end: '2019-08'
     description: |2-
     
@@ -78,7 +78,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
-    date_start: '2019-6'
+    date_start: '2019-06'
     date_end: '2019-07'
     description: |2-
     
