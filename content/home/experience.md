@@ -32,7 +32,7 @@ experience:
     
     * Prepare, present and guide students through Calculus based assignments.
     * Creatively instill mathematical foundations in students for future mathematics and science classes.
-    * Respond to students’ emails quickly with suggestions and actions necessary to complete labs.
+    * Respond to students' emails quickly with suggestions and actions necessary to complete labs.
     * During the Spring semesters, actively research relevant information pertaining to dissertation topic
         
         
