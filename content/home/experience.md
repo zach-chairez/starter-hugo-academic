@@ -44,7 +44,7 @@ experience:
     date_end: '2019-07-01'
     description: 'Taught and mentored the 2nd and 3rd year TEXPrep students in their respective subjects such as physics, basic group theory, scientific research, statistics, logic, modular arithmetic, and professional writing.'   
 widget_id: "experience"
-headless: true
+headless: false
 weight: 40
 title: Experience
 subtitle: null
