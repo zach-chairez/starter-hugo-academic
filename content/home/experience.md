@@ -35,7 +35,6 @@ experience:
     * Respond to students' emails quickly with suggestions and actions necessary to complete labs.
     * During the Spring semesters, actively research relevant information pertaining to dissertation topic.
         
-        
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
