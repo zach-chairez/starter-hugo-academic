@@ -45,7 +45,7 @@ experience:
     date_end: '2020-08'
     description: |2-
     
-      * Listen, teach, and dynamically present concepts to students in Elementary Algebra to Differential Equations, as well as freshman/sophomore level Engineering and Physics.
+      * Listen, teach, and dynamically present concepts to students in Elementary Algebra to Differential Equations, as well as freshman & sophomore level Engineering and Physics.
       * Actively encourage students to ask questions.
       * Promote thought experiments, new study habits, and healthy communication skills.
       
