@@ -1,12 +1,13 @@
 ---
 widget: experience
+headless: true
 active: true
 date_format: Jan 2006
 experience:
   - title: 'Graduate Teaching/Research Assistant'
     company: 'The University of Texas at Arlington'
     company_url: "uta.edu"
-    company_logo: 'org-gc'
+    # company_logo: 'org-gc'
     location: 'Arlington,TX'
     date_start: 2'020-09-01'
     date_end: ""
@@ -14,7 +15,7 @@ experience:
     - title: 'Professional Tutor'
     company: 'Del Mar College'
     company_url: "delmar.edu"
-    company_logo: 'org-x'
+    # company_logo: 'org-x'
     location: 'Corpus Christi, TX'
     date_start: '2018-09-01'
     date_end: '2020-08-01'
@@ -48,5 +49,5 @@ weight: 30
 title: Experience
 active: true
 design:
-  columns: "2"
+columns: "2"
 ---
