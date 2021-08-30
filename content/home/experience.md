@@ -31,8 +31,8 @@ experience:
     date_end: ''
     description: |2-
     
-        Hi there
-
+      * Pooped everywhere
+      * Super pooped everywhere
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
