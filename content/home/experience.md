@@ -45,7 +45,7 @@ experience:
     date_end: '2020-08'
     description: |2-
     
-        * Listen, teach, and dynamically present concepts to students in Elementary Algebra to Differential Equations, as well as freshman         & sophomore level Engineering and Physics.
+        * Listen, teach, and dynamically present concepts to students in Elementary Algebra to Differential Equations, as             well as freshman & sophomore level Engineering and Physics.
         * Actively encourage students to ask questions.
         * Promote thought experiments, new study habits, and healthy communication skills.
       
@@ -70,8 +70,8 @@ experience:
     date_end: '2019-08'
     description: |2-
     
-        * Project GRAD is a nonprofit summer bridge program assisting students in Mathematics and English. I worked side by side with another mathematics instructor implementing various styles of hands-on mathematical learning techniques to propel struggling students to new heights.
-        * I led the hands-on mathematics workshop following the lecture, engaging and challenging students to think critically and effectively.
+        * Project GRAD is a nonprofit summer bridge program assisting students in Mathematics and English. I worked side by           side with another mathematics instructor implementing various styles of hands-on mathematical learning techniques           to propel struggling students to new heights.
+        * I led the hands-on mathematics workshop following the lecture, engaging and challenging students to think                   critically and effectively.
        
   - title: Math and Technology Mentor
     company: TEXPrep
@@ -82,7 +82,7 @@ experience:
     date_end: '2019-07'
     description: |2-
     
-        * Work closely with middle and high school students, covering topics in logic, physics, modular arithmetic, introductory group theory, statistics, engineering and design, as well as technical and professional writing.
+        * Work closely with middle and high school students, covering topics in logic, physics, modular arithmetic,                   introductory group theory, statistics, engineering and design, as well as technical and professional writing.
         * Monitor students throughout the day in and out of the classroom.   
       
 active: true
