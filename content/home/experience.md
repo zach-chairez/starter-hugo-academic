@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Graduate Teaching & Research Assistant
     company: The University of Texas at Arlington
-    company_url: 'uta.edu'
+    company_url: "www.uta.edu"
     company_logo: org-gc
     location: Arlington,TX
     date_start: '2021-01-01'
