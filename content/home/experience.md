@@ -1,7 +1,7 @@
 ---
 widget: experience
 widget_id: Experience
-weight: 40
+weight: 30
 title: Experience
 active: true
 design:
