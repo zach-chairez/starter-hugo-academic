@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Arlington,TX
-    date_start: '2021-01-01'
+    date_start: '2020-08'
     date_end: ''
     description: |2-
     
