@@ -29,7 +29,9 @@ experience:
     location: Arlington,TX
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
+    description: >- 
+    
+    * Hello Moto
 
   - title: Professor of Semiconductor Physics
     company: University X
