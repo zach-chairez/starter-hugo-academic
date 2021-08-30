@@ -25,7 +25,7 @@ experience:
   - title: Graduate Teaching & Research Assistant
     company: The University of Texas at Arlington
     company_url: ''
-    company_logo: org-gc
+    company_logo: uta
     location: Arlington,TX
     date_start: '2020-08-01'
     date_end: ''
