@@ -45,12 +45,12 @@ experience:
     date_end: '2020-08'
     description: |2-
     
-      * Listen, teach, and dynamically present concepts to students in Elementary Algebra to Differential Equations, as well as freshman & sophomore level Engineering and Physics.
+      * Listen, teach, and dynamically present concepts to students in Elementary Algebra to Differential Equations, as well as freshman         & sophomore level Engineering and Physics.
       * Actively encourage students to ask questions.
       * Promote thought experiments, new study habits, and healthy communication skills.
       
   - title: Graduate Teaching Assistant
-    company: Texas A&M University - Corpus Christi
+    company: 'Texas A&M University - Corpus Christi'
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
@@ -62,7 +62,7 @@ experience:
       * Similar job duties as current Graduate Teaching Assistant position.  
       
   - title: Mathematics Instructor
-    company: Texas A&M University - Corpus Christi
+    company: 'Texas A&M University - Corpus Christi'
     company_url: ''
     company_logo: org-x
     location: Corpus Christi, TX
