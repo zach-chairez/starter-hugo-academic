@@ -1,6 +1,6 @@
 ---
 widget: skills
-widget_id: poop monster
+widget_id: skills
 headless: true
 weight: 40
 title: Skills
