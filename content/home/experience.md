@@ -29,6 +29,7 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
+    
     * Prepare, present and guide students through Calculus based assignments.
     * Creatively instill mathematical foundations in students for future mathematics and science classes.
     * Respond to students’ emails quickly with suggestions and actions necessary to complete labs.
