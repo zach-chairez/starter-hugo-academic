@@ -24,17 +24,12 @@ date_format: Jan 2006
 experience:
   - title: Graduate Teaching & Research Assistant
     company: The University of Texas at Arlington
-    company_url: "www.uta.edu"
     company_logo: org-gc
     location: Arlington,TX
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
