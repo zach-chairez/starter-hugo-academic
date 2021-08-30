@@ -1,5 +1,5 @@
 ---
-widget: skills
+widget: featurette
 widget_id: skills
 headless: true
 weight: 40
