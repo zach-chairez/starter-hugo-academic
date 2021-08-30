@@ -45,11 +45,11 @@ experience:
     description: |2-
     
       * Listen, teach, and dynamically present concepts to students in Elementary Algebra to Differential
-  Equations, as well as freshman/sophomore level Engineering and Physics.
+        Equations, as well as freshman/sophomore level Engineering and Physics.
       * Actively encourage students to ask questions.
       * Promote thought experiments, new study habits, and healthy communication skills.
       
-      - title: Graduate Teaching Assistant
+  - title: Graduate Teaching Assistant
     company: Texas A&M University - Corpus Christi
     company_url: ''
     company_logo: org-x
@@ -61,7 +61,7 @@ experience:
       * Prepare, present and guide students through MatLab-based calculus labs.
       * Similar job duties as current Graduate Teaching Assistant position.
      
-     - title: Mathematics Instructor
+  - title: Mathematics Instructor
     company: Texas A&M University - Corpus Christi
     company_url: ''
     company_logo: org-x
@@ -76,7 +76,7 @@ experience:
       * I led the hands-on mathematics workshop following the lecture, engaging and challenging students to
         think critically and effectively.
         
-    - title: Math and Technology Mentor
+  - title: Math and Technology Mentor
     company: TEXPrep
     company_url: ''
     company_logo: org-x
@@ -85,12 +85,9 @@ experience:
     date_end: '2019-07'
     description: |2-
     
-      * Work closely with middle and high school students, covering topics in logic, physics, modular               arithmetic, introductory group theory, statistics, engineering and design, as well as technical and         professional writing.
+      * Work closely with middle and high school students, covering topics in logic, physics, modular arithmetic, introductory group theory, statistics, engineering         and           design, as well as technical and professional writing.
       * Monitor students throughout the day in and out of the classroom.
         
-      
-
-
 active: true
 design:
   columns: '2'
