@@ -1,8 +1,8 @@
 ---
-widget: featurette
+widget: skills
 widget_id: poop monster
 headless: true
-weight: 30
+weight: 40
 title: Skills
 subtitle: null
 feature:
