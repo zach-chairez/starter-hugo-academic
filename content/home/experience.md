@@ -25,7 +25,7 @@ experience:
   - title: Graduate Teaching & Research Assistant
     company: The University of Texas at Arlington
     company_url: ''
-    company_logo: uta
+    company_logo: ''
     location: Arlington,TX
     date_start: '2020-08-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Professional Tutor
     company: Del Mar College
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Corpus Christi, TX
     date_start: '2018-09-01'
     date_end: '2020-08-01'
@@ -52,7 +52,7 @@ experience:
   - title: Graduate Teaching Assistant
     company: 'Texas A&M University - Corpus Christi'
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Corpus Christi, TX
     date_start: '2018-09-01'
     date_end: '2020-05-01'
@@ -64,7 +64,7 @@ experience:
   - title: Mathematics Instructor
     company: 'Texas A&M University - Corpus Christi'
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Corpus Christi, TX
     date_start: '2019-07-01'
     date_end: '2019-08-01'
@@ -76,7 +76,7 @@ experience:
   - title: Math and Technology Mentor
     company: TEXPrep
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: Corpus Christi, TX
     date_start: '2019-06-01'
     date_end: '2019-07-01'
