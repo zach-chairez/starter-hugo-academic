@@ -5,18 +5,19 @@ headless: true
 weight: 40
 title: Skills
 subtitle: null
+active: true
 feature:
-  - description: 
+  - description: null
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 
+  - description: null
     icon: python
     icon_pack: fab
-    name: 
+    name: null
   - description: 10%
     icon: camera-retro
     icon_pack: fas
     name: Photography
-active: true
 ---
+R, MATLAB, Python, LaTeX
