@@ -20,9 +20,9 @@ main:
     #url: '#featured'
     #weight: 50
     
-  - name: Skills
-    url: '#skills'
-    weight: 30
+  # - name: Skills
+    # url: '#skills'
+    # weight: 30
     
   - name: CV
     url: uploads/resume.pdf
