@@ -9,7 +9,7 @@ headless: true
 weight: 45
 
 # Section title
-title: Conferences
+title: Talks
 
 # Section subtitle
 subtitle:
