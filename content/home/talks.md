@@ -21,4 +21,5 @@ design:
   
 ---
 CERF (Coastal & Estuarine Research Federation) 2019, Mobile, AL, Nov 04, 2019 - Nov 08, 2019
+
 • Talk: ”Spatial-Temporal Models of Multi-Species Interactions to Study Catastrophic Events”
