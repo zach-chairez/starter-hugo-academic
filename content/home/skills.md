@@ -13,5 +13,3 @@ feature:
     icon_pack: fab
     name: R, MATLAB, Python, LaTeX
 ---
-
-
