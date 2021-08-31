@@ -32,7 +32,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Zachary Chairez is currently a Ph.D. student in the department of Mathematics at the University of Texas at Arlington.  He's currently working under Dr. Ren-Cang Li and Dr. Li Wang in Machine Learning with a focus in Multi-view Learning.  Zach received his B.S. and M.S. in Applied Mathematics from Texas A&M University - Corpus Christi.  Zach has been teaching mathematics and mathematics related topics periodically with students ranging from K-12 and college.  When Zach is not working, he likes to run, play soccer, spend time with his girlfriend, and take copious amounts of naps.
+Hi there! I'm Zach, I'm currenly a Ph.D. student in the department of Mathematics here at the University of Texas at Arlington.  I'm currently working under Dr. Ren-Cang Li and Dr. Li Wang in Machine Learning with a focus in Multi-view Learning.  I've been tutoring and teaching mathematics periodically over the years from students in K-12 up to college.  More recently, I've been working in the university level while tutoring high school students privately.  When I'm not working, I enjoy running, playing soccer, spending time with my girlfriend, and taking a copious amount of naps.  
 
 
 
