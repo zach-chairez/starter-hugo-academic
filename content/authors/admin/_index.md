@@ -36,6 +36,7 @@ Zachary Chairez is currently a Ph.D. student in the department of Mathematics at
 
 
 
+<br>
 
 #### **Technical Skills:**
 
