@@ -28,6 +28,10 @@ main:
     url: uploads/resume.pdf
     weight: 50
     
+  - name: Talks
+    url: '#talks'
+    weight: 45
+    
   - name: Contact
     url: '#contact'
     weight: 40
