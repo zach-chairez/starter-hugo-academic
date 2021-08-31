@@ -1,5 +1,5 @@
 # An instance of the Blank widget.
-widget: blank
+widget: experience
 
 # This file represents a page section.
 headless: true
