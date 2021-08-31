@@ -7,4 +7,11 @@ title: Skills
 subtitle: null
 active: true
 
-R, MATLAB, Python, LaTeX
+feature:
+  - description: ''
+    icon: ''
+    icon_pack: fab
+    name: R, MATLAB, Python, LaTeX
+---
+
+
