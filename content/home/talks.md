@@ -1,3 +1,4 @@
+---
 # An instance of the Blank widget.
 widget: blank
 
