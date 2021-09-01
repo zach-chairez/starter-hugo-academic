@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Supervised Learning
   - Multi-view Learning
-  - Optimization on Smooth Manifolds
+  - Optimization on Matrix Manifolds
 social:
   - icon: envelope
     icon_pack: fas
