@@ -4,8 +4,8 @@ role: Mathematics Ph.D. Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Supervised Learning
   - Multi-view Learning
+  - Trace-Ratio Optimization
   - Optimization on Matrix Manifolds
 social:
   - icon: envelope
@@ -32,7 +32,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Hi there! I'm Zach, I'm currenly a Ph.D. student in the department of Mathematics here at the University of Texas at Arlington.  I'm currently working under Dr. Ren-Cang Li and Dr. Li Wang in Machine Learning with a focus in Multi-view Learning.  I've been tutoring and teaching mathematics periodically over the years with students in K-12 up to college.  More recently, I've been working in the university level while tutoring high school students privately.  When I'm not working, I enjoy running, playing soccer, spending time with my girlfriend, and taking a copious amount of naps.  
+Hi there! I'm Zach, I'm currenly a Ph.D. student in the department of Mathematics at the University of Texas at Arlington.  I'm currently working under Dr. Ren-Cang Li and Dr. Li Wang with a focus in Multi-view Learning.  I've been tutoring and teaching mathematics periodically over the years with students in K-12 up to college.  More recently, I've been working in the university while tutoring high school students privately.  When I'm not working, I enjoy running, playing soccer, spending time with my girlfriend, and taking a copious amount of naps.  
 
 <br>
 
