@@ -1,6 +1,6 @@
 ---
 widget: posts
 widget_id: posts
-weight: 30
+weight: 35
 active: true
 ---
