@@ -8,5 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-$$\frac{1}{2}$$
-
+Hello this is a test to this dumb project.  
