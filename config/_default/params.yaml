@@ -38,7 +38,7 @@ office_hours:
   - 'Monday 11:00 to 1:00'
   - 'Wednesday 11:00 to 1:00'
 #appointment_url: 'https://calendly.com'
-contact_links:
+# contact_links:
  # - icon: twitter
    # icon_pack: fab
    # name: DM Me
